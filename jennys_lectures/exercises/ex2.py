@@ -1,0 +1,7 @@
+print("string manipulation in python")
+print('string concatination is done with "+" sign')
+print('e.g print("hello" + "jenny")')
+print("a new line can be created with a backslash and n")
+print()
+print()
+print('hello \n string "+" sign \n print("hello" + "jenny") \n a new line of code')

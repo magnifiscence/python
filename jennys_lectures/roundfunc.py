@@ -1,0 +1,6 @@
+# formular round(number to be rouned, number of digits to round to and its optional)
+print(round(7))
+print(round(7, 2))
+print(round(6.777))
+print(type(round(6.777)))
+print(round(674, -4))
